@@ -4,6 +4,9 @@ description = "tresdsa"
 featured = false
 image = ""
 title = "Testovaci clanek dva"
+[menu.main]
+name = "Článek test"
+weight = 5
 
 +++
 fsdfsdfsd
