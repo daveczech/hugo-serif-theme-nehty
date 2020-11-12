@@ -6,6 +6,8 @@ featured = false
 image = "/uploads/upravene-nehty.png"
 title = "Testovací článek"
 weight = nil
+[menu.footer]
+weight = 3
 
 +++
 dasdasdassafds
