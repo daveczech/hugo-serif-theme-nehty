@@ -19,3 +19,5 @@ fields:
   config:
     required: false
   label: Clanek
+pages:
+- content/blog/testovaci-clanek.md
