@@ -7,6 +7,7 @@ menu:
     name: Kontakt
     weight: 2
   main:
+    name: Kontakt
     weight: 1
 
 ---
