@@ -2,10 +2,6 @@ baseURL = "www.example.com"
 languageCode = "en-us"
 title = "Hugo Serif Theme"
 [[menu.footer]]
-name = "Contact"
-url = "/contact/"
-weight = 2
-[[menu.footer]]
 name = "Home"
 url = "/"
 weight = 1

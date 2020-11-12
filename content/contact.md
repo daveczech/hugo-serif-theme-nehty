@@ -3,6 +3,9 @@ title: Contact
 date: 2018-02-22T17:01:34.000+07:00
 layout: contact
 menu:
+  footer:
+    name: Kontakt
+    weight: 2
   main:
     weight: 1
 
