@@ -7,4 +7,4 @@ intro_image_hide_on_mobile: true
 ---
 # Upravené nehty můžete mít i Vy. Zjistěte jak.
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+Zjistěte, jak na to. Cesta k vytouženým a vyživeným nehtům není dlouhá a složitá. Naučíme vás, jak o své nehty pečovat. Už žádné lámavé nehty.
