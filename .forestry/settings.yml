@@ -5,8 +5,15 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
+  path: content/blog
+  label: Clanky
+  create: documents
+  match: "*"
+  templates:
+  - clanky
+- type: directory
   path: content/services
-  label: Blog
+  label: Sluzby
   create: all
   match: "**/*"
 - type: directory
