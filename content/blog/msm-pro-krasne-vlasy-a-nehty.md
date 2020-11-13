@@ -1,7 +1,6 @@
 +++
 date = 2020-11-12T23:00:00Z
 description = "Někdy, když si prohlížíte složení volně prodejných doplňků stravy pro podporu růstu nehtů narazíte na názvy, kterým zrovna nerozumíte. Mezi ně patří třeba MSM."
-draft = true
 featured = false
 image = "/uploads/msm.jpg"
 title = "MSM pro krásné vlasy a nehty"

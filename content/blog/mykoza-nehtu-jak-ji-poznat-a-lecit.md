@@ -1,7 +1,6 @@
 +++
 date = 2020-11-12T23:00:00Z
 description = "Mykóza nehtů rozhodně není něčím, čím by se chtěl kdokoliv z nás pyšnit. Kromě toho, že vypadá děsivě nám může pohled na ni dost snižovat sebevědomí."
-draft = true
 featured = false
 image = "/uploads/mykoza-nehtu.jpg"
 title = "Mykóza nehtů: Jak ji poznat a léčit"
