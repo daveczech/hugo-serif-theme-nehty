@@ -1,7 +1,6 @@
 +++
 date = 2020-11-12T23:00:00Z
 description = "Moderní technika se pomalu dostává i do péče o nehty. Zatímco dříve šlo o výsadu specializovaných salonů, dnes ji máme doma. Znáte elektrický pilník na nehty."
-draft = true
 featured = false
 image = "/uploads/elektricky-pilnik-na-nehty.jpg"
 title = "Elektrický pilník na nehty: Jak ho vybrat správně a kdy ho používat"

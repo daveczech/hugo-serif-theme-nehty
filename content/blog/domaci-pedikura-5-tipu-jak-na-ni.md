@@ -1,7 +1,6 @@
 +++
 date = 2020-11-12T23:00:00Z
 description = "Ať už je léto, nebo zima, nesmíme podceňovat správnou péči o nohy. Víte, jak na domácí pedikúru? Dnes se podíváme jak na ni."
-draft = true
 featured = false
 image = "/uploads/domaci-pedikura.jpg"
 title = "Domácí pedikúra: 5 tipů jak na ni"
