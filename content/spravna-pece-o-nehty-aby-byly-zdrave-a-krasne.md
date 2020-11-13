@@ -1,7 +1,6 @@
 +++
 date = 2020-11-12T23:00:00Z
 description = "Abyste měli krásné nehty, kterým nic zásadního nechybí, je potřeba, abyste jim věnovali péči. Správná péče o nehty není snadná. Dnes se podíváme jak na to."
-draft = true
 featured = false
 image = "/uploads/pece-o-nehty-1.jpg"
 title = "Správná péče o nehty, aby byly zdravé a krásné"
