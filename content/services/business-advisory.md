@@ -1,11 +1,10 @@
 ---
-title: "Business Advisory"
-date: 2018-11-28T15:14:39+10:00
+title: Business Advisory
+date: 2018-11-28T15:14:39.000+10:00
 featured: true
-draft: false
-weight: 2
----
+weight: "2"
 
+---
 Lorem markdownum, dictis umbrosum dextrum, Lelegeia quamquam distantes pares
 ignisque quaerit dederat gemino Aethiopesque [caelo](#inque-ne-collocat)
 ulciscitur est. Morte [lugebere](#esse-ferro-nisi) conatur [Pallada
