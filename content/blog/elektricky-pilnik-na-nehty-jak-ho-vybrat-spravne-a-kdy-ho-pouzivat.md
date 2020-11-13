@@ -13,7 +13,7 @@ Dříve se nehty brousily ručně. Sice to vyžadovalo **správnou techniku** a 
 
 Možná ale jen sedíme doma a chceme dosáhnout stejně dobrých výsledků, jako manikérky v nehtovém studiu. Jen s tím rozdílem, že nemáme chuť učit se všelijaké vychytávky, které vedou ke kýženému výsledku.
 
-**V případě, že se v těchto řádcích poznáváte, není vyloučeno, že jste začali koukat po elektrickém pilníku. Víte o něm ale všechno podstatné?**
+> **_V případě, že se v těchto řádcích poznáváte, není vyloučeno, že jste začali koukat po elektrickém pilníku. Víte o něm ale všechno podstatné?_**
 
 ![](/uploads/pilnik-a-nehty.jpg)
 
@@ -56,7 +56,6 @@ Pokud vám smíme radit, elektrický pilník používejte primárně **kvůli ú
 
 ## Jak ho vybrat správně?
 
-  
 Pokud jsme vás od tohoto kroku neodradili, vydáváme se na nákup. V první řadě si vybírejte **elektrické pilníky od renomovaných značek**. Jsou sice dražší, ale mají mnohem lepší kvalitu. Velmi důležitá je taktéž **sada správných nástavců**. (Pokud jsou dostupné ve stejném balení, tím lépe.)
 
 ![jak používat pilník na nehty](/uploads/jak-pouzivat-pilnik-na-nehty.jpg)
