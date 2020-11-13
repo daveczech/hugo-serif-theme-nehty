@@ -1,7 +1,6 @@
 +++
 date = 2020-11-12T23:00:00Z
 description = "Stříhání nehtů na rukou i na nohou je důležité nejen pro jejich krásu a normální růst, ale také kvůli tomu, aby nezačaly zarůstat. Víte, jak na zarostlé nehty?"
-draft = true
 featured = false
 image = "/uploads/zarostly-nehet.jpg"
 title = "Jak léčit zarostlý nehet a jak mu předejít"

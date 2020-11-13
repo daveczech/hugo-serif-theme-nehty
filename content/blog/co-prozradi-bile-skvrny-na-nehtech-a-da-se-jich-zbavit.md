@@ -1,7 +1,6 @@
 +++
 date = 2020-11-12T23:00:00Z
 description = "Zdravé nehty jsou celistvé, bez šupinek a světle růžové barvy. Co když se nám objeví bílé skvrny na nehtech? Dnes si ukážeme jak se jich zbavit."
-draft = true
 featured = false
 image = "/uploads/bile-skvrny-na-nehtech.jpg"
 title = "Co prozradí bílé skvrny na nehtech a dá se jich zbavit?"
