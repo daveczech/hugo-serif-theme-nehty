@@ -1,7 +1,6 @@
 +++
 date = 2020-11-12T23:00:00Z
 description = "Pokud jste přišli o nehet v důsledku úrazu, nebo jen toužíte po délce a pěstěnějším vzhledu, tak pokračujte ve čtení. Dnes si povíme jak zrychlit růst nehtů."
-draft = true
 featured = false
 image = "/uploads/rust-nehtu.jpg"
 title = "Jak zrychlit růst nehtů: Víme, jak na to"

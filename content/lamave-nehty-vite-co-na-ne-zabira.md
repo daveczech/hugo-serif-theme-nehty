@@ -1,7 +1,6 @@
 +++
 date = 2020-11-12T23:00:00Z
 description = "Ne každý má ale takové štěstí, aby měl dokonale upravené a zdravé nehty. Častým problémem jsou lámavé nehty. Víte, co na ně zabírá?"
-draft = true
 featured = false
 image = "/uploads/lamave-nehty.jpg"
 title = "Lámavé nehty: Víte, co na ně zabírá?"
