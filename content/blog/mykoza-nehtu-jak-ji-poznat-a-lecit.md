@@ -13,7 +13,7 @@ Mykóza, nebo také **plíseň nehtů**, je něco, co nám zabraňuje **nosit he
 
 Chce to jen neklesat na mysli a zvolit postup, který opravdu funguje. Jakmile uvidíte první výsledky, bude to pro vás mnohem snazší.
 
-**Pokud jste připraveni, tak můžeme začít.**
+> **_Pokud jste připraveni, tak můžeme začít._**
 
 ![co je to mykóza](/uploads/co-je-to-mykoza.jpg)
 
@@ -35,7 +35,6 @@ Vzhledem k tomu, že **k mykóze na nehtech dochází postupně**, je vhodné ji
 
 ### Mykóza nehtů na nohou
 
-  
 Mykóza nehtů na nohou je mnohem častější než ta na rukou. Jak už bylo řečeno, je to dáno hlavně tím, že se nám pot**í nohy v neprodyšných ponožkách a botách**. Z toho důvodu bychom měli preferovat **boty a ponožky z přírodních materiálů**. Popřípadě takové, které **dobře odvětrávají pot**.
 
 ![mykóza a pocení](/uploads/mykoza-a-poceni.jpg)
@@ -46,7 +45,6 @@ Velmi důležitá je i **dostatečná hygiena nohou**. Když si umyjete nohy, **
 
 K mykóze na nehtech na rukou se můžete dopracovat **celodenním nošením gumových rukavic**, pod kterými se vám potí ruce. Z toho důvodu je potřeba zajistit jejich dostatečně větrání. (Alespoň občas nechte ruce volně dýchat.) Také je potřeba si je kvůli tomu mnohem **častěji umývat**.
 
-  
 Velkým rizikem je i **časté střídání nehtových salonů**. Zvlášť, pokud nemáte ověřené jejich reference. Pokud manikérka pracuje se špinavým nástrojem, může vám způsobit infekci během pouhého mrknutí oka.
 
 ![plíseň nehtů](/uploads/mykoza-manikura.jpg)
@@ -65,5 +63,4 @@ Jakmile na sobě začnete pozorovat první příznaky potíží, běžte se o ni
 
 ## Závěr
 
-  
 Mykóze uděláte čáru přes rozpočet, když jí dopřejete **ztrátu vlhkosti a vzduch**. Proto, je-li to alespoň trochu možné, **choďte bosí**. Také si obstarejte **kvalitní potravinové doplňky pro podporu růstu zdravých nehtů** a řiďte se radami, které vám dá odborník. Uvidíte, že vaše nehty budou brzy jako dřív.
