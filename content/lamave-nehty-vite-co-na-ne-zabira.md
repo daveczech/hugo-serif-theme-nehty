@@ -4,6 +4,9 @@ description = "Ne každý má ale takové štěstí, aby měl dokonale upravené
 featured = false
 image = "/uploads/lamave-nehty.jpg"
 title = "Lámavé nehty: Víte, co na ně zabírá?"
+[menu.main]
+name = "Lámavé nehty"
+weight = 4
 
 +++
 **V televizních, ale i v tištěných reklamách na nás pomrkávají ženy a muži s dokonale upravenými a zdravými nehty. Ne každý má ale takové štěstí, aby mu byly takové dány do vínku. Místo toho, abyste zelenali závistí, podíváme se společně na to, jak můžete zatočit se svými lámavými nehty.**

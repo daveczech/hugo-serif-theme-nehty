@@ -4,6 +4,9 @@ description = "Abyste měli krásné nehty, kterým nic zásadního nechybí, je
 featured = false
 image = "/uploads/pece-o-nehty-1.jpg"
 title = "Správná péče o nehty, aby byly zdravé a krásné"
+[menu.main]
+name = "Správná péče o nehty"
+weight = 2
 
 +++
 **Abyste měli krásné nehty, kterým nic zásadního nechybí, je potřeba, abyste jim věnovali náležitou péči. Kromě toho, že budou stále upravené předejdete jejich vážným chorobám a dalším stavům, které se podepíšou na jejich normálním vzhledu. Dnes si ukážeme, jak na to.**

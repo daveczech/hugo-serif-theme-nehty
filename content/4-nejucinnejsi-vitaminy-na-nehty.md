@@ -4,6 +4,9 @@ description = "Aby mohlo naše tělo správně fungovat, potřebuje k tomu dobro
 featured = false
 image = "/uploads/vitaminy-na-nehty.jpg"
 title = "4 nejúčinnější vitamíny na nehty"
+[menu.main]
+name = "Vitamíny na nehty"
+weight = 5
 
 +++
 **Aby mohlo naše tělo správně fungovat, potřebuje k tomu dobrou výživu. V ní by neměly chybět makroživiny, jako jsou sacharidy, tuky a bílkoviny, tak mikroživiny. K nim patří vitamíny, stopové prvky a minerální látky, které zajišťují chod celého těla. Když jich máme málo, jsme častěji nemocní. Také se to ale odráží na horší kvalitě našich vlasů, pleti a nehtů. Jaké vitamíny na vlasy a nehty si tedy začít dopřávat?**

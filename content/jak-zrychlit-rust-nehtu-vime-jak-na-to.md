@@ -4,6 +4,9 @@ description = "Pokud jste přišli o nehet v důsledku úrazu, nebo jen toužít
 featured = false
 image = "/uploads/rust-nehtu.jpg"
 title = "Jak zrychlit růst nehtů: Víme, jak na to"
+[menu.main]
+name = "Růst nehtů"
+weight = 3
 
 +++
 **Pokud jste přišli o nehet v důsledku nějakého úrazu, nebo jen toužíte po jejich délce a pěstěnějším vzhledu, moc dobře víte, jaké je počítání každého nového milimetru. Pokud se vám zdá, že dorůstání trvá nějak dlouho, vyzkoušejte tyto tipy na podporu růstu nehtů!**

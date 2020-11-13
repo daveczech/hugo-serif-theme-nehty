@@ -5,14 +5,6 @@ title = "Hugo Serif Theme"
 name = "Home"
 url = "/"
 weight = 1
-[[menu.main]]
-name = "Team"
-url = "/team/"
-weight = 4
-[[menu.main]]
-name = "Services"
-url = "/services/"
-weight = 3
 [params]
 google_analytics_id = ""
 google_tag_manager_id = ""
