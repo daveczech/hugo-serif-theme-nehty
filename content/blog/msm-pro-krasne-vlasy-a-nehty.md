@@ -13,7 +13,7 @@ Svět je plný nejrůznějších látek a sloučenin. Zatímco s některými se 
 
 To je ale obrovská škoda, protože opravdový zájem o tyto látky může vést k tomu, že je začnete častěji používat. A tím pádem z nich budete i těžit.
 
-**Abychom vám trochu rozšířili obzory, v tomto článku vám představíme látku zvanou MSM.**
+> **_Abychom vám trochu rozšířili obzory, v tomto článku vám představíme látku zvanou MSM._**
 
 ![msm na nehty](/uploads/msm-na-nehty.jpg)
 
@@ -57,5 +57,4 @@ Nedostatek MSM se projevuje mnoha způsoby. Mohou vás **bolet klouby**, nebo **
 
 MSM doplňujeme a často o tom ani nevíme. Je ale potřeba dodat, že ne každý s těmito potravinami a nápoji přijde každodenně (z jakéhokoliv důvodu) do styku. A když ano, zase nemusí jít o množství, které by mělo vliv na kvalitu nehtů. Z toho důvodu je určitě dobré pořídit si **kvalitní potravinový doplněk stravy**, který ho obsahuje. Pokud jsou v něm i **vitamíny skupiny B**, nebo **vitamín E**, tím lépe.
 
-  
 Když se ale vrátíme k přirozeným zdrojům MSM, najdeme ho v **kávě**, **čaji**, **pivu**, **nezpracovaném mléku**, **rajčatech**, **jablkách**, v **zelených listových salátech** nebo v **celozrnných výrobcích**.
