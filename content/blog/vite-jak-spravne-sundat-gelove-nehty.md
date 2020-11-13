@@ -11,10 +11,9 @@ title = "Víte, jak správně sundat gelové nehty?"
 
 Gelové nehty se v současnosti těší velké oblibě. Gel **dlouho vydrží**, **neloupe se** a **dá se upravovat na tisíc různých způsobů**. Jejich nošení ale nemusí být vždycky velká výhra. Dobré nehtařky mohou mít dlouhé čekací lhůty, během kterých vám nehty nevzhledně odrostou.
 
-  
 Také to hodně leze do peněz a po sundání se můžete potýkat s **oslabenými**, **třepivými** a **lámavými nehty**, které budou náchylnější k různým anomáliím. Dají se ale nějak sundat? Případně, jde to udělat alespoň trochu bezpečně?
 
-**Na to se podíváme záhy.**
+> **_Na to se podíváme záhy._**
 
 ![jak sundat gelové nehty](/uploads/gelove-nehty.jpg)
 
@@ -44,7 +43,6 @@ Nevýhodou tohoto způsobu je to, že **zabere obrovské množství času a je p
 
 ### Namáčení
 
-  
 Když vsadíte na namáčení gelových nehtů, budete potřebovat **alobal**, **teplou vodu** a **čistý aceton**. Dále si připravte **bavlněné tampony na odličování**, nebo vatu. Na ochranu před acetonem využijte **vazelínu**.
 
 ![](/uploads/namaceni-gelovych-nehtu.jpg)  
@@ -54,5 +52,4 @@ Výhodou této metody je, že **je opravdu účinná**. Nevýhodou je ale naopak
 
 ## Závěr
 
-  
 Pokud vám smíme radit, při sundávání gelových nehtů **preferujte práci s pilníkem**. U něj lze poměrně snadno ohlídat poškození nehtů. Sice to s ním trvá déle, ale nebudete muset řešit, proč se vám nehty nadměrně šupinatí a lámou.
