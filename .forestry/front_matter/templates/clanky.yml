@@ -22,4 +22,5 @@ fields:
   name: featured
   label: featured
 pages:
+- content/blog/jak-lecit-zarostly-nehet-a-jak-mu-predejit.md
 - content/blog/testovaci-clanek-dva.md
