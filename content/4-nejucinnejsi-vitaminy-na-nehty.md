@@ -1,7 +1,6 @@
 +++
 date = 2020-11-12T23:00:00Z
 description = "Aby mohlo naše tělo správně fungovat, potřebuje k tomu dobrou výživu. To samé platí pro nehty. Víte, jaké jsou nejúčinnější vitamíny na nehty?"
-draft = true
 featured = false
 image = "/uploads/vitaminy-na-nehty.jpg"
 title = "4 nejúčinnější vitamíny na nehty"
