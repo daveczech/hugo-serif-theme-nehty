@@ -1,7 +1,6 @@
 +++
 date = 2020-11-12T23:00:00Z
 description = "Pokud vaše přírodní nehty nedosahují potřebné kvality, nejspíš si pořídíte gelové nehty. Víte, jak sundat gelové nehty? Více se dozvíte v našem článku."
-draft = true
 featured = false
 image = "/uploads/jak-sundat-gelove-nehty.jpg"
 title = "Víte, jak správně sundat gelové nehty?"

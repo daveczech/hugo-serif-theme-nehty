@@ -1,7 +1,6 @@
 +++
 date = 2020-11-12T23:00:00Z
 description = "Zlobí vás lámavé a třepivé nehty? V tom případě se zamyslete nad tím, zda máte dostatečný přísun všech důležitých vitamínů. Jedním z nich je Vitamín E."
-draft = true
 featured = false
 image = "/uploads/vitamin-e.jpg"
 title = "Silné a dlouhé nehty? Vyzkoušejte vitamín E"

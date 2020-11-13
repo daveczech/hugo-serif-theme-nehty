@@ -1,7 +1,6 @@
 +++
 date = 2020-11-12T23:00:00Z
 description = "Aby byly nehty zdravé a krásné, potřebují dostatečnou výživu. Vyzkoušejte vitamín B7 (biotin). Víte, jaké jsou jeho účinky na nehty?"
-draft = true
 featured = false
 image = "/uploads/vitamin-b7.jpg"
 title = "Vitamín B7 pro správný růst nehtů"
