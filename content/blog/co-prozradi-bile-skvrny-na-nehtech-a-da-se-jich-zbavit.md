@@ -13,7 +13,7 @@ O zdraví našich nehtů se většinou moc nezajímáme. Když ale přijde něja
 
 Co když nás ale začnou trápit **bílé skvrny na nehtech**? Jde o projev nějaké nemoci, nebo je to něco, čím se není nutné nějak znepokojovat?
 
-**Abyste v tom měli jasno, pokračujte ve čtení.**
+> **_Abyste v tom měli jasno, pokračujte ve čtení._**
 
 ![](/uploads/co-prozradi-bile-skvrny-na-nehtech.jpg)
 
@@ -36,7 +36,6 @@ Příčinou bílých skvrn na nehtech je (nejčastěji) **poranění nehtového 
 
 Pokud vyloučíte, že vám spadlo něco na nehet, co by na něj mohlo vyvinout nadměrný tlak, příčina se může schovávat i v **návštěvách špatného nehtového salonu**. (Případně i ve vaší závislosti na něm.)
 
-  
 Také ale může jít o následek špatné, nebo **nedostatečné výživy**, nebo **alergické reakce** na gel, lak nebo jiný přípravek na úpravu nehtů.
 
 ![výživa na nehty](/uploads/vyziva-na-nehty.jpg)
