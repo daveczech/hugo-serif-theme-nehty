@@ -13,7 +13,7 @@ Správná péče o nehty u nohou by měla zahrnovat **zkrácení jeho okrajovýc
 
 Zatímco někomu nehty zarůstají jen občasně a ne příliš do hloubky, u některých jiných jde o chronický problém, se kterým se potýkají **několikrát do roka**. Vzhledem k tomu, že tento jev může způsobit vážný zánět, je důležité vědět, co se s ním dá dělat.
 
-**Což vám povíme právě v tomto článku.**
+> **_Což vám povíme právě v tomto článku._**
 
 ![jak vzniká zarostlý nehet](/uploads/jak-znika-zarostly-nehet.jpg)
 
