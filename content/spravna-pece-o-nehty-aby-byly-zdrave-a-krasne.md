@@ -31,7 +31,7 @@ Abychom dlouze nekroužili okolo horké kaše, podíváme se na to, jaké jsou n
 * Špatná výživa
 * Používání agresivních odlakovačů s acetonem
 * Nošení příliš dlouhých nehtů, které se mohou snadno zalomit
-* Nesprávně provedená manikúra a[ pedikúra](https://www.upravenenehty.cz/blog/domaci-pedikura-5-tipu-jak-na-ni/)
+* Nesprávně provedená manikúra a [pedikúra](https://www.upravenenehty.cz/blog/domaci-pedikura-5-tipu-jak-na-ni/)
 
 Vaše nehty vám rozhodně nepoděkují ani za **pravidelné návštěvy nehtových studií**, která se specializují na lepení a výrobu umělých nehtů.
 
