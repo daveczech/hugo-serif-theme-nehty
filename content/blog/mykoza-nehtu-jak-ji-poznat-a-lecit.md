@@ -62,4 +62,4 @@ Jakmile na sobě začnete pozorovat první příznaky potíží, běžte se o ni
 
 ## Závěr
 
-Mykóze uděláte čáru přes rozpočet, když jí dopřejete **ztrátu vlhkosti a vzduch**. Proto, je-li to alespoň trochu možné, **choďte bosí**. Také si obstarejte **kvalitní potravinové doplňky pro podporu růstu zdravých nehtů** a řiďte se radami, které vám dá odborník. Uvidíte, že vaše nehty budou brzy jako dřív.
+Mykóze uděláte čáru přes rozpočet, když jí dopřejete **ztrátu vlhkosti a vzduch**. Proto, je-li to alespoň trochu možné, **choďte bosí**. Také si obstarejte **kvalitní potravinové doplňky pro** [**podporu růstu zdravých nehtů**](https://www.upravenenehty.cz/jak-zrychlit-rust-nehtu-vime-jak-na-to/) a řiďte se radami, které vám dá odborník. Uvidíte, že vaše nehty budou brzy jako dřív.
