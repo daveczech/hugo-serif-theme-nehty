@@ -34,11 +34,11 @@ I když jsou pro naše tělo důležité všechny vitamíny, stopové prvky a mi
 * Vitamín E
 * Vitamín A
 
-Dobře vám udělá i **MSM**, nebo již zmíněný **protein**, který je základním stavebním kamenem svalů, nehtů a vlasů.
+[Dobře vám udělá i **MSM**](https://www.upravenenehty.cz/blog/msm-pro-krasne-vlasy-a-nehty/), nebo již zmíněný **protein**, který je základním stavebním kamenem svalů, nehtů a vlasů.
 
 ### Vitamín A
 
-Pokud bychom hledali nejlepší vitamíny na lámavé nehty, rozhodně by mezi nimi nechyběl vitamín A. Tento v tucích rozpustný vitamín je důležitý pro náš **zdravý zrak**, nebo pro **zdraví naší kůže**. (Jak jistě víte, v létě před dovolenou si dopřáváme spoustu betakarotenu, který má napomoci zdravějšímu a trvalejšímu opálení.)
+Pokud bychom hledali nejlepší vitamíny [na lámavé nehty](https://www.upravenenehty.cz/lamave-nehty-vite-co-na-ne-zabira/), rozhodně by mezi nimi nechyběl vitamín A. Tento v tucích rozpustný vitamín je důležitý pro náš **zdravý zrak**, nebo pro **zdraví naší kůže**. (Jak jistě víte, v létě před dovolenou si dopřáváme spoustu betakarotenu, který má napomoci zdravějšímu a trvalejšímu opálení.)
 
 **Vitamín A také umí:**
 
@@ -64,7 +64,7 @@ Dalším pomocníkem, po kterém se hodí začít koukat, je vitamín C. Nejen, 
 
 ### Vitamín E
 
-Vitamín E je další z těch, který se **rozpouští v tucích**. Z toho důvodu musíme dávat dobrý pozor na to, kolik ho přijímáme. (Oproti vitamínům, které jsou rozpustné ve vodě, se lze těmi rozpustnými v tucích předávkovat.)
+[Vitamín E](https://www.upravenenehty.cz/blog/silne-a-dlouhe-nehty-vyzkousejte-vitamin-e/) je další z těch, který se **rozpouští v tucích**. Z toho důvodu musíme dávat dobrý pozor na to, kolik ho přijímáme. (Oproti vitamínům, které jsou rozpustné ve vodě, se lze těmi rozpustnými v tucích předávkovat.)
 
 Když to s ním nebudeme přehánět, odvděčí se nám tím, že **omladí naše buňky** (jde totiž o antioxidant) a **ochrání je před poškozením**.
 
@@ -83,7 +83,7 @@ Když to s ním nebudeme přehánět, odvděčí se nám tím, že **omladí na�
 
 **Co se týče prospěšnosti pro nehty, nejvíce vám prospěje:**
 
-* Vitamín B7
+* [Vitamín B7](https://www.upravenenehty.cz/blog/vitamin-b7-pro-spravny-rust-nehtu/)
 * Vitamín B9
 * Vitamín B12
 
@@ -101,10 +101,10 @@ Dále známe vitamín B1, B2, B3, B5…Setkat se s nimi můžeme jak pohromadě,
 * Vliv na svalovou hmotu
 * Pozitivní vliv na trávicí soustavu
 
-V rámci péče o nehty, vlasy a kůži je nejvíce znám **vitamín B7**, kterému se říká biotin. Jeho nedostatek se projevuje padáním vlasů, nebo třepícími se nehty. **Vitamín B9** má pozitivní vliv na prokrvení, které dodává nehtům všechny potřebné živiny. **Vitamín B12** je pak důležitý kvůli normálnímu vzhledu a barevné pigmentaci nehtů.
+[V rámci péče o nehty](https://www.upravenenehty.cz/spravna-pece-o-nehty-aby-byly-zdrave-a-krasne/), vlasy a kůži je nejvíce znám **vitamín B7**, kterému se říká biotin. Jeho nedostatek se projevuje padáním vlasů, nebo třepícími se nehty. **Vitamín B9** má pozitivní vliv na prokrvení, které dodává nehtům všechny potřebné živiny. **Vitamín B12** je pak důležitý kvůli normálnímu vzhledu a barevné pigmentaci nehtů.
 
 Vzhledem k tomu, že jsou vitamíny skupiny B **rozpustné ve vodě**, tělo jejich přebytek vyloučí pryč močí.
 
 ## Zdravá strava
 
-Základním pilířem krásných nehtů, vlasů a pokožky je **vyvážený jídelníček**. Pomoci vám ale mohou i **kvalitní potravinové doplňky na podporu růstu nehtů a vlasů a pro zdraví vaší pokožky**. Nejen, že obsahují širší spektrum látek, které se podporují mezi sebou, ale také je budete mít za každých okolností po ruce.
+Základním pilířem krásných nehtů, vlasů a pokožky je **vyvážený jídelníček**. Pomoci vám ale mohou i **kvalitní potravinové doplňky** [**na podporu růstu nehtů**](https://www.upravenenehty.cz/jak-zrychlit-rust-nehtu-vime-jak-na-to/) **a vlasů a pro zdraví vaší pokožky**. Nejen, že obsahují širší spektrum látek, které se podporují mezi sebou, ale také je budete mít za každých okolností po ruce.
