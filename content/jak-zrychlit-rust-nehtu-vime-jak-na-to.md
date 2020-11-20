@@ -19,7 +19,6 @@ Jednoduše řečeno, růst vlasů a nehtů ovlivňuje tolik faktorů, že je mo�
 
 > **_Jak se o sebe začít správně starat a jak zajistit, aby vaše nehty rostly rychleji si objasníme v následujících odstavcích._**
 
-  
 ![](/uploads/pomaly-rust-nehtu.jpg)
 
 ## Pomalý růst nehtů
@@ -43,7 +42,7 @@ Důvodů, kvůli kterým vám nehty nerostou tak, jak byste si představovali, e
 
 **Mezi další faktory patří:**
 
-* Správná péče
+* [Správná péče](https://www.upravenenehty.cz/spravna-pece-o-nehty-aby-byly-zdrave-a-krasne/)
 * Dostatečná výživa
 * Mechanická podpora růstu nehtů (tím máme na mysli používání speciálních zpevňovacích laků, nošení rukavic…)
 
@@ -51,7 +50,7 @@ Důvodů, kvůli kterým vám nehty nerostou tak, jak byste si představovali, e
 
 Hodně záleží i na tom, **jak nehty zatěžujete**. Pokud chodíte do nehtových salonů a necháte si dělat pravidelně umělé, oslabujete tím ty, které rostou pod nimi. (Negativní vliv na ně mají i lepidla a další složky, které se při jejich aplikaci běžně používají.) Je tedy dobré se zamyslet nad tím, zda nedáte přednost přirozené kráse vašich nehtů. Ač to ne vždy bude vypadat naprosto esteticky.
 
-Na kvalitu nehtů pak mají samozřejmě vliv i další faktory, jako je **plíseň nehtů**, **třepení** nebo **žloutnutí**. V takovém případě je důležité tento stav vyléčit a teprve pak se starat o optimální růst.
+Na kvalitu nehtů pak mají samozřejmě vliv i další faktory, jako je [**plíseň nehtů**](https://www.upravenenehty.cz/blog/mykoza-nehtu-jak-ji-poznat-a-lecit/), [**třepení**](https://www.upravenenehty.cz/lamave-nehty-vite-co-na-ne-zabira/) nebo **žloutnutí**. V takovém případě je důležité tento stav vyléčit a teprve pak se starat o optimální růst.
 
 ## Jak na rychlý růst nehtů
 
@@ -76,7 +75,7 @@ Po umývání je dobré si **důkladně osušit nohy**. Včetně prázdných mí
 
 Z předchozích bodů jsme schválně vynechali výživu. Jde totiž o tak důležitý faktor, že si zaslouží svoji vlastní sekci.
 
-Nehty jsou tvořené **proteiny**. Z toho důvodu je extrémně důležité jim je dodávat. Buď z masa, nebo z rostlinných proteinových prášků. (Varianta pro vegetariány a vegany.) Dále je nutné dopřát si **železo**, které má příznivý vliv na krvetvorbu. Prospěšné vám budou i **vitamíny skupiny B**, které nám dodávají energii a **vitamíny E** a **C**, které chrání buňky před poškozením.
+Nehty jsou tvořené **proteiny**. Z toho důvodu je extrémně důležité jim je dodávat. Buď z masa, nebo z rostlinných proteinových prášků. (Varianta pro vegetariány a vegany.) Dále je nutné dopřát si **železo**, které má příznivý vliv na krvetvorbu. Prospěšné vám budou i [**vitamíny skupiny B**](https://www.upravenenehty.cz/blog/vitamin-b7-pro-spravny-rust-nehtu/), které nám dodávají energii a [**vitamíny E**](https://www.upravenenehty.cz/blog/silne-a-dlouhe-nehty-vyzkousejte-vitamin-e/) a **C**, které chrání buňky před poškozením.
 
 **Co se týká další péče, pomůže vám:**
 
@@ -84,7 +83,7 @@ Nehty jsou tvořené **proteiny**. Z toho důvodu je extrémně důležité jim 
 * Používání podkladového laku pod klasický lak (dokáže ho chránit)
 * Přestat používat odlakovače na nehty s obsahem acetonu
 * Pauza od návštěvy nehtových studií
-* Střídmá manikúra a pedikúra
+* Střídmá manikúra a [pedikúra](https://www.upravenenehty.cz/blog/domaci-pedikura-5-tipu-jak-na-ni/)
 * Zastřihávání nehtů do správného tvaru (tím je rovina, maximálně mírný oblouček na rukách)
 * Používání vyživujících olejíčků na nehty a nehtová lůžka
 * Používání kvalitních hydratačních krémů
@@ -93,8 +92,8 @@ Jasná stopka pak patří **zatlačování nehtového lůžka**, které se tím 
 
 ![odlakovač na nehty](/uploads/odlakovac-na-nehty.jpg)
 
-V neposlední řadě si dávejte opravdu **dobrý pozor na použití profesionálních pomůcek** (UV lampa, elektrický pilník…) v domácím prostředí. Zvlášť, pokud s nimi neumíte zacházet.
+V neposlední řadě si dávejte opravdu **dobrý pozor na použití profesionálních pomůcek** (UV lampa, [elektrický pilník](https://www.upravenenehty.cz/blog/elektricky-pilnik-na-nehty-jak-ho-vybrat-spravne-a-kdy-ho-pouzivat/)…) v domácím prostředí. Zvlášť, pokud s nimi neumíte zacházet.
 
 ## Závěr
 
-Ačkoliv je pro zdravý růst nehtů potřeba **řádná výživa** bohatá na vitamíny, stopové prvky a minerální látky, hodně toho dovedeme ovlivnit i naší **správnou péčí**. I když to vypadá náročně, ve skutečnosti jde jen o pár bodů, po jejichž dodržování budou vaše nehty tak krásné, jako nikdy dřív.
+Ačkoliv je pro zdravý růst nehtů potřeba **řádná** [**výživa** bohatá na vitamín](https://www.upravenenehty.cz/4-nejucinnejsi-vitaminy-na-nehty/)y, stopové prvky a minerální látky, hodně toho dovedeme ovlivnit i naší **správnou péčí**. I když to vypadá náročně, ve skutečnosti jde jen o pár bodů, po jejichž dodržování budou vaše nehty tak krásné, jako nikdy dřív.
