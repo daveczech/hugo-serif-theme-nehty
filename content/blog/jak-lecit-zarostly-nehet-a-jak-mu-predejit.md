@@ -73,7 +73,7 @@ Jen částečně, ale ano, dá. Vše (opět) začíná a končí tím, jak se o 
 
 * Nosit boty, které vás netlačí a nezpůsobují tlak na palec (typicky jde o boty se špičatou špičkou)
 * Stříhat si správně nehty
-* Chodit alespoň občas na pedikúru
+* Chodit alespoň občas [na pedikúru](https://www.upravenenehty.cz/blog/domaci-pedikura-5-tipu-jak-na-ni/)
 * Nosit v potenciálně nebezpečném pracovním prostředí boty s okovanou špičkou (eliminují riziko deformací kvůli nárazům)
 * Stříhat nehty do optimální délky (příliš krátké nehty rostou rychleji)
 
