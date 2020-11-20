@@ -6,9 +6,9 @@ image = "/uploads/vitamin-e.jpg"
 title = "Silné a dlouhé nehty? Vyzkoušejte vitamín E"
 
 +++
-**Zlobí vás lámavé a třepivé nehty? V tom případě se zamyslete nad tím, zda máte dostatečný přísun všech důležitých vitamínů. Nejde jen o notoricky známé vitamíny skupiny B, ale také o vitamín E, který má na jejich růstu a zdraví lví podíl. Proto se na něj podíváme v našem dnešním článku.**
+**Zlobí vás** [**lámavé a třepivé nehty**](https://www.upravenenehty.cz/lamave-nehty-vite-co-na-ne-zabira/)**? V tom případě se zamyslete nad tím, zda máte dostatečný přísun všech důležitých vitamínů. Nejde jen o notoricky známé vitamíny skupiny B, ale také o vitamín E, který má** [**na jejich růstu**](https://www.upravenenehty.cz/jak-zrychlit-rust-nehtu-vime-jak-na-to/) **a zdraví lví podíl. Proto se na něj podíváme v našem dnešním článku.**
 
-Když někdo řekne, že ke kráse a zdraví se dá projíst, naráží tím na příznivé účinky **vitamínů**, **minerálů** a **stopových prvků**. Některé z nich se starají o normální stav zubů, chrupavek a kostí. Další jsou důležité pro správné fungování srdce, mozku a zraku.
+Když někdo řekne, že ke kráse a zdraví se dá projíst, naráží tím na příznivé [účinky **vitamínů**](https://www.upravenenehty.cz/4-nejucinnejsi-vitaminy-na-nehty/), **minerálů** a **stopových prvků**. Některé z nich se starají o normální stav zubů, chrupavek a kostí. Další jsou důležité pro správné fungování srdce, mozku a zraku.
 
 A pak jsou tu takové, které mají vliv na obnovu a ochranu všech tělesných buněk a na zdraví vlasů, nehtů a kůže. V této souvislosti často mluvíme o **vitamínu C**, který má dobrý vliv na kolagen a na redukci vrásek. Naší kráse ale prospívá i **vitamín E**.
 
