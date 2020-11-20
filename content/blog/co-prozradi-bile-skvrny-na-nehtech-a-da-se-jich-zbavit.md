@@ -8,7 +8,7 @@ title = "Co prozradí bílé skvrny na nehtech a dá se jich zbavit?"
 +++
 **Zdravé nehty jsou celistvé, bez šupinek a světle růžové barvy. Co když se na nich ale začnou dělat podivné bílé skvrny? Je potřeba se tohoto jevu bát, nebo je to normální? Na tyto a další otázky najdete odpověď v následujících několika odstavcích.**
 
-O zdraví našich nehtů se většinou moc nezajímáme. Když ale přijde nějaký zdravotní problém, který se jich týká, tak to pak stojí za to. Kvůli **lámavým nehtům** je nemůžeme nosit tak dlouhé, jak bychom si přáli. **Plíseň na nehtech u nohou** v nás zase vyvolává rozpaky ve chvílích, kdy si máme sundat ponožky.
+O zdraví našich nehtů se většinou moc nezajímáme. Když ale přijde nějaký zdravotní problém, který se jich týká, tak to pak stojí za to. [Kvůli **lámavým nehtům**](https://www.upravenenehty.cz/lamave-nehty-vite-co-na-ne-zabira/) je nemůžeme nosit tak dlouhé, jak bychom si přáli. **Plíseň na nehtech u nohou** v nás zase vyvolává rozpaky ve chvílích, kdy si máme sundat ponožky.
 
 Co když nás ale začnou trápit **bílé skvrny na nehtech**? Jde o projev nějaké nemoci, nebo je to něco, čím se není nutné nějak znepokojovat?
 
@@ -27,21 +27,21 @@ Příčinou bílých skvrn na nehtech je (nejčastěji) **poranění nehtového 
 **Mezi obvyklé důvody patří:**
 
 * Pád těžkého předmětu na nohu, nebo na ruku
-* Častá úprava nehtů manikérem, nebo pedikérem
+* Častá úprava nehtů manikérem, nebo [pedikérem](https://www.upravenenehty.cz/blog/domaci-pedikura-5-tipu-jak-na-ni/)
 * Nošení umělých nehtů
 * Alergická reakce
 * Nedostatek minerálních látek
-* Plíseň nehtů
+* [Plíseň nehtů](https://www.upravenenehty.cz/blog/mykoza-nehtu-jak-ji-poznat-a-lecit/)
 
 Pokud vyloučíte, že vám spadlo něco na nehet, co by na něj mohlo vyvinout nadměrný tlak, příčina se může schovávat i v **návštěvách špatného nehtového salonu**. (Případně i ve vaší závislosti na něm.)
 
-Také ale může jít o následek špatné, nebo **nedostatečné výživy**, nebo **alergické reakce** na gel, lak nebo jiný přípravek na úpravu nehtů.
+Také ale může jít o následek špatné, nebo **nedostatečné výživy**, nebo **alergické** [**reakce** na gel](https://www.upravenenehty.cz/blog/vite-jak-spravne-sundat-gelove-nehty/), lak nebo jiný přípravek na úpravu nehtů.
 
 ![výživa na nehty](/uploads/vyziva-na-nehty.jpg)
 
 ## Dají se odstranit?
 
-Vše záleží na tom, kvůli čemu se vám tento defekt udělal. V případě, že šlo o nedostatečnou výživu, pomůžete si tím, že ji **zlepšíte**. (A je jedno, zda sáhnete po čerstvých potravinách, nebo po doplňcích stravy na podporu růstu nehtů.)
+Vše záleží na tom, kvůli čemu se vám tento defekt udělal. V případě, že šlo o nedostatečnou výživu, pomůžete si tím, že ji **zlepšíte**. (A je jedno, zda sáhnete po čerstvých potravinách, nebo po doplňcích stravy [na podporu růstu nehtů](https://www.upravenenehty.cz/jak-zrychlit-rust-nehtu-vime-jak-na-to/).)
 
 V případě, že šlo o alergickou reakci, **přestaňte používat přípravky, které ji mohly vyvolat**. Léčit se dá i plíseň nehtů. Ač je to většinou běh na trochu delší trať.
 
