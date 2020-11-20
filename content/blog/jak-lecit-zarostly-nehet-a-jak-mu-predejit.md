@@ -6,9 +6,9 @@ image = "/uploads/zarostly-nehet.jpg"
 title = "Jak léčit zarostlý nehet a jak mu předejít"
 
 +++
-**Stříhání nehtů na rukou i na nohou je důležité nejen pro jejich krásu a normální růst, ale také kvůli tomu, aby nezačaly zarůstat. Speciální problém představuje zarostlý nehet u palce. Kromě toho, že může začít bolet se může neustále vracet. Dá se s tím něco udělat?**
+**Stříhání nehtů na rukou i na nohou je důležité nejen pro jejich krásu a** [**normální růst**](https://www.upravenenehty.cz/jak-zrychlit-rust-nehtu-vime-jak-na-to/)**, ale také kvůli tomu, aby nezačaly zarůstat. Speciální problém představuje zarostlý nehet u palce. Kromě toho, že může začít bolet se může neustále vracet. Dá se s tím něco udělat?**
 
-Správná péče o nehty u nohou by měla zahrnovat **zkrácení jeho okrajových částí**, které zarůstají do kůže. Když se tak nestane, okolo nehtu se začne šířit **bolest**, která má negativní vliv na chůzi i na kvalitu našeho života.
+[Správná péče o nehty](https://www.upravenenehty.cz/spravna-pece-o-nehty-aby-byly-zdrave-a-krasne/) u nohou by měla zahrnovat **zkrácení jeho okrajových částí**, které zarůstají do kůže. Když se tak nestane, okolo nehtu se začne šířit **bolest**, která má negativní vliv na chůzi i na kvalitu našeho života.
 
 Zatímco někomu nehty zarůstají jen občasně a ne příliš do hloubky, u některých jiných jde o chronický problém, se kterým se potýkají **několikrát do roka**. Vzhledem k tomu, že tento jev může způsobit vážný zánět, je důležité vědět, co se s ním dá dělat.
 
