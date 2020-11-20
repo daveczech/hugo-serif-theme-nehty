@@ -15,7 +15,7 @@ weight = 2
 
 Pravda je ale taková, že **laky**, **nalepovací nehty** a **UV tvrzení** jim nemusí dělat ani trochu dobře. Na fotkách se tedy můžeme pyšnit dokonalými uměleckými díly, ale jakmile je sundáme, zapláčeme nad tím, co se stalo s jejich základem.
 
-> **_Pokud nestojíte o lámavé a zažloutlé nehty, ba ani o nehty, o které se začala pokoušet plíseň, nahlédněte do našeho průvodce, který vás seznámí se správnou péčí o nehty, kterou zvládnete i v domácím prostředí._**
+> **_Pokud nestojíte o_** [**_lámavé a zažloutlé nehty_**](https://www.upravenenehty.cz/lamave-nehty-vite-co-na-ne-zabira/)**_, ba ani o nehty, o které se začala pokoušet plíseň, nahlédněte do našeho průvodce, který vás seznámí se správnou péčí o nehty, kterou zvládnete i v domácím prostředí._**
 
 ![péče o nehty](/uploads/domaci-pece-o-nehty.jpg)
 
@@ -31,7 +31,7 @@ Abychom dlouze nekroužili okolo horké kaše, podíváme se na to, jaké jsou n
 * Špatná výživa
 * Používání agresivních odlakovačů s acetonem
 * Nošení příliš dlouhých nehtů, které se mohou snadno zalomit
-* Nesprávně provedená manikúra a pedikúra
+* Nesprávně provedená manikúra a[ pedikúra](https://www.upravenenehty.cz/blog/domaci-pedikura-5-tipu-jak-na-ni/)
 
 Vaše nehty vám rozhodně nepoděkují ani za **pravidelné návštěvy nehtových studií**, která se specializují na lepení a výrobu umělých nehtů.
 
@@ -51,11 +51,11 @@ Když už víme, jaké praktiky patří do nehtového pekla, podíváme se na to
 * Pravidelné zastřihování
 * Před nanášením barevného laku aplikovat podkladový (ochranný) lak
 * Dát svým nehtům občas pauzu od všech nadměrných úprav
-* Zapracovat na stravě
+* Zapracovat [na stravě](https://www.upravenenehty.cz/blog/silne-a-dlouhe-nehty-vyzkousejte-vitamin-e/)
 
 ![](/uploads/pece-o-nehty-muz-zena.jpg)
 
-Jak je z výše uvedeného seznamu tipů patrné, nehtům vůbec nesvědčí **nedostatečná hygiena a přebytek chemie**. (Umývání nádobí, praní v ruce, saponát na úklid koupelny…) Hodně nebezpečné je i **nošení nevhodných bot**, které nevětrají. Tím, jak se nohy potí, může se začít projevovat **plíseň nehtů**.
+Jak je z výše uvedeného seznamu tipů patrné, nehtům vůbec nesvědčí **nedostatečná hygiena a přebytek chemie**. (Umývání nádobí, praní v ruce, saponát na úklid koupelny…) Hodně nebezpečné je i **nošení nevhodných bot**, které nevětrají. Tím, jak se nohy potí, může se začít [projevovat **plíseň nehtů**](https://www.upravenenehty.cz/blog/mykoza-nehtu-jak-ji-poznat-a-lecit/).
 
 Také je důležité to nepřehánět s nejrůznějšími **úpravami nehtů**. Dlouhé a hodně zdobené nehty mohou vypadat na první pohled zajímavě a hezky, ale jejich nošení přináší ženám více mínusů než výhod. (Horší manipulace s předměty, slabší přírodní nehet, riziko odlomení…) Je to ale samozřejmě na každém.
 
@@ -65,18 +65,17 @@ Také je důležité to nepřehánět s nejrůznějšími **úpravami nehtů**. 
 
 Už naše babičky říkávaly, že pro krásu se musí trpět. Což by asi ani tak nevadilo, kdyby to mnohdy nemělo negativní dopady na naše zdraví.
 
-  
 Dobrým příkladem jsou boty. Koupíme si nějaký super drahý model, po kterém jsme dlouho toužili, ale je nám jen tak, tak. Jsme ale ochotní to vydržet. Při každém nošení se nám ale na nohou udělají **otlaky a puchýře**. (Často i na bříškách prstů.) Což není ani trochu dobře. Kromě toho, že nutíme prsty k tomu, aby se neustále krčily tímto způsobem **zvyšujeme riziko vzniku vážné infekce**.
 
 ![boty a nehty](/uploads/boty-nehty.jpg)
 
 ### Tip 2: Správně stříhejte
 
-Při stříhání nehtů je nejlepší držet se **rovných linií**. A to i na chodidlech. Nikde se nic nezatrhává a zároveň tím zabraňujeme tomu, aby se pod přečnívajícím nehtem usadily bakterie. Při stříhání nehtů u nohou nezapomeňte **zastřihovat rožky**, jinak vám začne nehet při nejbližší příležitosti zarůstat.
+Při stříhání nehtů je nejlepší držet se **rovných linií**. A to i na chodidlech. Nikde se nic nezatrhává a zároveň tím zabraňujeme tomu, aby se pod přečnívajícím nehtem usadily bakterie. Při stříhání nehtů u nohou nezapomeňte **zastřihovat rožky**, jinak vám začne [nehet při nejbližší příležitosti zarůstat](https://www.upravenenehty.cz/blog/jak-lecit-zarostly-nehet-a-jak-mu-predejit/).
 
 ### Tip 3: Nevšímejte si kutikul
 
-Kutikula je místo, ze kterého nám vyrůstá nehet. Z nějakého důvodu je neustálým středem pozornosti a někdo se ji snaží nějak upravit, či zatlačit. Což je obrovská chyba. Pokud nechcete kutikuly poškodit, **nechte je být**.
+Kutikula je místo, ze kterého nám [vyrůstá nehet](https://www.upravenenehty.cz/jak-zrychlit-rust-nehtu-vime-jak-na-to/). Z nějakého důvodu je neustálým středem pozornosti a někdo se ji snaží nějak upravit, či zatlačit. Což je obrovská chyba. Pokud nechcete kutikuly poškodit, **nechte je být**.
 
 ![](/uploads/kutikula-nehtu.jpg)
 
@@ -92,4 +91,4 @@ S některými věcmi si dovede poradit jen odborník. Ať už jde o plíseň na 
 
 ## Závěr
 
-Ač je pro nehty důležitá strava bohatá na vitamíny a minerální látky, neměla by se podcenit ani správná péče. Jedno bez druhého totiž nedokáže být.
+Ač je pro nehty důležitá strava [bohatá na vitamíny](https://www.upravenenehty.cz/4-nejucinnejsi-vitaminy-na-nehty/) a minerální látky, neměla by se podcenit ani správná péče. Jedno bez druhého totiž nedokáže být.
