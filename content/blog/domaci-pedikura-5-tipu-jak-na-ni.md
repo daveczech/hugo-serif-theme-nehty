@@ -6,9 +6,9 @@ image = "/uploads/domaci-pedikura.jpg"
 title = "Domácí pedikúra: 5 tipů jak na ni"
 
 +++
-**Ať už je léto, nebo zima, nesmíme podceňovat správnou péči o nohy. Zatímco v létě na ně působí nečistoty a prach ve spojení s nachozenými kilometry z výletů a túr, v zimě je moříme teplými ponožkami a hermeticky uzavřenou obuví. Není proto divu, že se to negativně podepíše jak na stavu chodidel, tak na zdravém vzhledu nehtů. Proto vám přinášíme návod, jak na domácí pedikúru v 5 jednoduchých krocích!**
+**Ať už je léto, nebo zima, nesmíme podceňovat** [**správnou péči o nohy**](https://www.upravenenehty.cz/spravna-pece-o-nehty-aby-byly-zdrave-a-krasne/)**. Zatímco v létě na ně působí nečistoty a prach ve spojení s nachozenými kilometry z výletů a túr, v zimě je moříme teplými ponožkami a hermeticky uzavřenou obuví. Není proto divu, že se to negativně podepíše jak na stavu chodidel, tak na zdravém vzhledu nehtů. Proto vám přinášíme návod, jak na domácí pedikúru v 5 jednoduchých krocích!**
 
-Nohy jsou jednou z nejzatěžovanějších částí lidského těla. Kromě toho, že je týráme dlouhým sezením či stáním musí unést celou naši váhu během všech každodenních úkonů. Přidejme k tomu ještě **otlaky ze špatně sedících bot**, **nedostatečné prokrvení**, **mozoly** či **zapaření** a pohroma je na světě. Nehty mohou kvůli veškeré této nepřízni **slábnout a žloutnout**. V některých případech je dokonce postihne i **plíseň**. A takový průšvih už nezachrání ani pečlivě vybraný lak na nehty.
+Nohy jsou jednou z nejzatěžovanějších částí lidského těla. Kromě toho, že je týráme dlouhým sezením či stáním musí unést celou naši váhu během všech každodenních úkonů. Přidejme k tomu ještě **otlaky ze špatně sedících bot**, **nedostatečné prokrvení**, **mozoly** či **zapaření** a pohroma je na světě. Nehty mohou kvůli veškeré této nepřízni **slábnout a žloutnout**. V některých případech je dokonce [postihne i **plíseň**](https://www.upravenenehty.cz/blog/mykoza-nehtu-jak-ji-poznat-a-lecit/). A takový průšvih už nezachrání ani pečlivě vybraný lak na nehty.
 
 > **_Abyste se nohám odvděčili za jejich každodenní službu, dopřejte jim jednou za čas domácí pedikúru._**
 
@@ -29,7 +29,7 @@ Pravidelná domácí pedikúra není důležitá jen z estetického hlediska. Al
 * Fyzické a k psychické pohodě
 * Odstranění bolestivých otlaků
 * Normálnímu vzhledu nehtů
-* Omezení zarůstání nehtů
+* [Omezení zarůstání nehtů](https://www.upravenenehty.cz/blog/jak-lecit-zarostly-nehet-a-jak-mu-predejit/)
 * Lepší cirkulaci krve a k aktivaci lymfatického systému (k tomu je ale nutné provést alespoň krátkou masáž chodidel)
 
 ![správná péče o nehty](/uploads/pece-o-nehty.jpg)
@@ -38,7 +38,7 @@ Pravidelná domácí pedikúra není důležitá jen z estetického hlediska. Al
 
 ### Krok 1: Odstraňte lak a upravte nehty
 
-Začněte tím, že vezmete vatový tampon namočený do **odlakovače bez alkoholu a bez acetonu** a očistěte jím nehty od nečistot a od starého laku. Hned na to vezměte do ruky nůžky, nebo kleštičky (s ohledem na to, co máte raději) a opatrně **zkraťte nehty do požadované délky a tvaru**. Nezapomeňte **zastřihnout okraje nehtů**, jinak vám začnou bolestivě zarůstat. Hrany nehtů **začištěte pilníkem**.
+Začněte tím, že vezmete vatový tampon namočený do **odlakovače bez alkoholu a bez acetonu** a očistěte jím nehty od nečistot a od starého laku. Hned na to vezměte do ruky nůžky, nebo kleštičky (s ohledem na to, co máte raději) a opatrně **zkraťte nehty do požadované délky a tvaru**. Nezapomeňte **zastřihnout okraje nehtů**, jinak vám začnou bolestivě zarůstat. Hrany nehtů [**začištěte pilníkem**](https://www.upravenenehty.cz/blog/elektricky-pilnik-na-nehty-jak-ho-vybrat-spravne-a-kdy-ho-pouzivat/).
 
 ### Krok 2: Koupel
 
@@ -54,7 +54,6 @@ Po koupeli si osušte nohy a proveďte **peeling**, který odstraní odumřelé 
 
 Jelikož to s krémem hezky klouže, proveďte si aspoň krátkou **masáž**. Ta prokrví nohy i nehty a poskytne vám příjemné uvolnění.
 
-  
 ![masáž nohou na nehty](/uploads/masaz-nohou.jpg)
 
 ### Krok 5: Finální úprava
