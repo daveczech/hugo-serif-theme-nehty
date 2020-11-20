@@ -10,8 +10,7 @@ title = "Vitamín B7 pro správný růst nehtů"
 
 Módní trendy hovoří jasně. Nehty by měly být za každých okolností **pěstěné a hezky upravené**. Jenže, vlivem **vysokého pracovního nasazení**, **genetiky** nebo **špatné výživy** se mohou začít lámat.
 
-  
-Varianty existují dvě. Buď na jejich vzhled rezignujete a necháte si nasadit **umělé nehty**, které budou na první pohled vypadat naprosto perfektně, ale přírodní nehet se pod nimi ještě více poškodí. Nebo se pustíte do boje a zachráníte je správnou péčí a výživou. Aby to klaplo, mějte stále po ruce **vitamín B7**.
+Varianty existují dvě. Buď na jejich vzhled rezignujete a necháte si nasadit **umělé nehty**, které budou na první pohled vypadat naprosto perfektně, ale přírodní nehet se pod nimi ještě více poškodí. Nebo se pustíte do boje a [zachráníte je správnou péčí](https://www.upravenenehty.cz/spravna-pece-o-nehty-aby-byly-zdrave-a-krasne/) a výživou. Aby to klaplo, mějte stále po ruce **vitamín B7**.
 
 ![](/uploads/ucinky-vitaminu-b7.jpg)
 
@@ -39,7 +38,7 @@ Vitamínu B7 se říká vitamín H proto, že jde o odvozeninu z německého slo
 
 ![](/uploads/vitamin-b7-na-nehty.jpg)
 
-Vitamín B7 se často spojuje i s **rychlejším růstem vlasů**. Málokdo však ví něco o tom, že **má pozitivní vliv i na růst a sílu lidských nehtů**. To znamená, že jsou po něm mnohem **méně třepivé a lámavé**.
+Vitamín B7 se často spojuje i s **rychlejším růstem vlasů**. Málokdo však ví něco o tom, že **má pozitivní vliv i na** [**růst a sílu lidských nehtů**](https://www.upravenenehty.cz/jak-zrychlit-rust-nehtu-vime-jak-na-to/). To znamená, že jsou po něm mnohem **méně třepivé a lámavé**.
 
 Je ale potřeba dodat, že i přes proběhlé studie o něm v tomto ohledu víme jen velmi málo. Aby se všechny tyto účinky podařilo neprůstřelně potvrdit, je potřeba provést další hloubkové bádání.
 
@@ -47,8 +46,7 @@ Je ale potřeba dodat, že i přes proběhlé studie o něm v tomto ohledu víme
 
 Vitamín B7 přijímá většina lidí ze své denní potravy. Existují ale mezi námi jedinci, kteří mají s jeho zpracováním problémy. Jeho nedostatkem mohou v nějaké formě trpět i lidé, kteří ignorují zdravý životní styl.
 
-  
-Jeho absence v těle se projeví **zvýšenou lámavostí nehtů**, **kožními problémy** a **poruchami neurologického rázu**. Výjimečné nejsou ani **depresivní stavy**.
+Jeho absence v těle se projeví [**zvýšenou lámavostí nehtů**](https://www.upravenenehty.cz/lamave-nehty-vite-co-na-ne-zabira/), **kožními problémy** a **poruchami neurologického rázu**. Výjimečné nejsou ani **depresivní stavy**.
 
 ![biotin na nehty](/uploads/zdroje-vitaminu-b7.jpg)
 
