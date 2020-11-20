@@ -96,4 +96,4 @@ V neposlední řadě si dávejte opravdu **dobrý pozor na použití profesioná
 
 ## Závěr
 
-Ačkoliv je pro zdravý růst nehtů potřeba **řádná** [**výživa** bohatá na vitamín](https://www.upravenenehty.cz/4-nejucinnejsi-vitaminy-na-nehty/)y, stopové prvky a minerální látky, hodně toho dovedeme ovlivnit i naší **správnou péčí**. I když to vypadá náročně, ve skutečnosti jde jen o pár bodů, po jejichž dodržování budou vaše nehty tak krásné, jako nikdy dřív.
+Ačkoliv je pro zdravý růst nehtů potřeba **řádná** [**výživa** bohatá na vitamíny](https://www.upravenenehty.cz/4-nejucinnejsi-vitaminy-na-nehty/), stopové prvky a minerální látky, hodně toho dovedeme ovlivnit i naší **správnou péčí**. I když to vypadá náročně, ve skutečnosti jde jen o pár bodů, po jejichž dodržování budou vaše nehty tak krásné, jako nikdy dřív.
