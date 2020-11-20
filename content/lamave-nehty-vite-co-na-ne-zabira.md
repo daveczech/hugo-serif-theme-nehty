@@ -13,7 +13,7 @@ weight = 4
 
 Příroda neměří každému z nás stejně. Zatímco někdo dostane do výbavy krásné dlouhé vlasy a hezké štíhlé nohy, někdo jiný se potýká s akné a s l**ámavými nehty**. Samozřejmě, mohli byste začít žehrat, jaká je na tomto světě nespravedlnost. Nebo můžete místo toho **přijmout i svůj díl zodpovědnosti** a něco s tím udělat.
 
-Pravda je totiž velice prostá. I když jsme nevyhráli genetickou loterii a máme na startu jiné podmínky, **s trochou snahy můžeme docílit toho, že se naše situace o poznání zlepší**. Mnohdy si totiž škodíme tím, že nevíme, co si naše tělo žádá a tím pádem se jeho stav nekontrolovatelně zhoršuje. Což platí i v oblasti **péče o nehty**.
+Pravda je totiž velice prostá. I když jsme nevyhráli genetickou loterii a máme na startu jiné podmínky, **s trochou snahy můžeme docílit toho, že se naše situace o poznání zlepší**. Mnohdy si totiž škodíme tím, že nevíme, co si naše tělo žádá a tím pádem se jeho stav nekontrolovatelně zhoršuje. Což platí [i v oblasti **péče o nehty**](https://www.upravenenehty.cz/spravna-pece-o-nehty-aby-byly-zdrave-a-krasne/).
 
 > **_Kdo chce dát věčné sbohem lámavým nehtům, ten by měl pokračovat ve čtení._**
 
@@ -36,7 +36,7 @@ Nehty se lámou z mnoha důvodů. Některé z nich lze ovlivnit, s jinými se mu
 * Nedostatek hydratace
 * Přebytek hydratace
 
-Hodně toho svedeme i tím, že si dopřejeme kompletní spektrum vitamínů, minerálů a stopových prvků a budeme se zajímat o správnou péči o nehty. (Velkým zlem jsou například ty **umělé**.)
+Hodně toho svedeme i tím, že si dopřejeme [kompletní spektrum vitamínů](https://www.upravenenehty.cz/4-nejucinnejsi-vitaminy-na-nehty/), minerálů a stopových prvků a budeme se zajímat o správnou péči o nehty. (Velkým zlem jsou například ty **umělé**.)
 
 ![lámavé nehty](/uploads/proc-se-nehty-lamou.jpg)
 
@@ -71,7 +71,7 @@ Jak všichni víme, ke kráse a zdraví se dá jednoduše projíst. Je ale velmi
 * Červeném mase
 * Borůvkách
 * Mandlích
-* Pivu (je bohaté na vitamíny skupiny B)
+* Pivu (je bohaté na [vitamíny skupiny B](https://www.upravenenehty.cz/blog/vitamin-b7-pro-spravny-rust-nehtu/))
 * Mléku
 * Vejcích
 * Brazilských ořechách
@@ -84,11 +84,11 @@ Pozitivním vedlejším účinkem tohoto počínání nebudou jen **zdravější
 
 ### Vitamíny a minerály
 
-Pokud se vám výše uvedený seznam zrovna dvakrát nezamlouvá (třeba kvůli tomu, že jste vegetariáni, nebo vegani), můžete si pořídit **volně prodejné doplňky stravy na podporu růstu nehtů**, které v sobě kombinují vitamíny, stopové prvky a minerály, jejichž přítomnost se příznivě odrazí na vaší kráse a celkové kondici.
+Pokud se vám výše uvedený seznam zrovna dvakrát nezamlouvá (třeba kvůli tomu, že jste vegetariáni, nebo vegani), můžete si pořídit **volně prodejné doplňky stravy** [**na podporu růstu nehtů**](https://www.upravenenehty.cz/jak-zrychlit-rust-nehtu-vime-jak-na-to/), které v sobě kombinují vitamíny, stopové prvky a minerály, jejichž přítomnost se příznivě odrazí na vaší kráse a celkové kondici.
 
 **Pomoci vám může:**
 
-* Biotin (vitamín B7)
+* [Biotin (vitamín B7)](https://www.upravenenehty.cz/blog/vitamin-b7-pro-spravny-rust-nehtu/)
 * Vitamín B12
 * Vitamín B9
 * Železo
