@@ -6,7 +6,7 @@ image = "/uploads/elektricky-pilnik-na-nehty.jpg"
 title = "Elektrický pilník na nehty: Jak ho vybrat správně a kdy ho používat"
 
 +++
-**Moderní technika se pomalu dostává i do péče o nehty. Zatímco dříve šlo o výsadu specializovaných salonů, dnes ji můžeme mít doma. Nemluvíme jen o nejrůznějších UV lampách na tvrzení nehtů, ale i o elektrických pilnících na nehty. Pokud uvažujete o tom, že si jeden koupíte, budeme rádi, když se začtete do našeho článku.**
+**Moderní technika se pomalu dostává i do** [**péče o nehty**](https://www.upravenenehty.cz/spravna-pece-o-nehty-aby-byly-zdrave-a-krasne/)**. Zatímco dříve šlo o výsadu specializovaných salonů, dnes ji můžeme mít doma. Nemluvíme jen o nejrůznějších UV lampách na tvrzení nehtů, ale i o elektrických pilnících na nehty. Pokud uvažujete o tom, že si jeden koupíte, budeme rádi, když se začtete do našeho článku.**
 
 Dříve se nehty brousily ručně. Sice to vyžadovalo **správnou techniku** a **větší množství času**, ale když se to udělalo dobře, tak to stálo za to. Dnes se to ale postupně mění. V krátkém časovém úseku potřebujeme odbavit velké množství lidí, kteří vyhledali naše služby.
 
