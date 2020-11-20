@@ -15,7 +15,7 @@ weight = 2
 
 Pravda je ale taková, že **laky**, **nalepovací nehty** a **UV tvrzení** jim nemusí dělat ani trochu dobře. Na fotkách se tedy můžeme pyšnit dokonalými uměleckými díly, ale jakmile je sundáme, zapláčeme nad tím, co se stalo s jejich základem.
 
-> **_Pokud nestojíte o_** [**_lámavé a zažloutlé nehty_**](https://www.upravenenehty.cz/lamave-nehty-vite-co-na-ne-zabira/)**_, ba ani o nehty, o které se začala pokoušet plíseň, nahlédněte do našeho průvodce, který vás seznámí se správnou péčí o nehty, kterou zvládnete i v domácím prostředí._**
+> **_Pokud nestojíte o_** **_lámavé a zažloutlé nehty, ba ani o nehty, o které se začala pokoušet plíseň, nahlédněte do našeho průvodce, který vás seznámí se správnou péčí o nehty, kterou zvládnete i v domácím prostředí._**
 
 ![péče o nehty](/uploads/domaci-pece-o-nehty.jpg)
 
